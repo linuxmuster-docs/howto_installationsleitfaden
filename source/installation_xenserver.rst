@@ -4,11 +4,7 @@ Installation XenServer
 Herunterladen von XenServer
 ---------------------------
 
-Der Hypervisor kann von der Projekthomepage http://www.xenserver.org heruntergeladen werden.
-Diese Anleitung bezieht sich auf die Version 6.5. Unter älteren Versionen können die Xen-VMs
-lmn61 nicht importiert werden.
-
-Die ISO-Datei muss heruntergeladen und auf CD gebrannt werden.
+Das Installationsmedium kann von der Projekthomepage http://xenserver.org heruntergeladen werden. Diese Anleitung bezieht sich auf die Version 6.5. Unter älteren Versionen können die Xen-VMs lmn61 nicht importiert werden. Die ISO-Datei muss heruntergeladen und auf CD gebrannt werden.
 
 Installieren von XenServer
 --------------------------
@@ -122,7 +118,7 @@ Installieren von XenServer
 ..  figure:: media/installation_xenserver/install18.png
     :scale: 70%
 
-    Legen Sie nun die CD "NetzInt-XenServerSupplementalPack" in das Laufwerk und bestätigen
+    Legen Sie nun die CD "XenServerSupplementalPack" in das Laufwerk und bestätigen
     Sie die Meldung mit ``Ok``
     
 ..  figure:: media/installation_xenserver/install19.png
@@ -223,7 +219,7 @@ Nun kann man die neue XenServer-Installation mit den virtuellen Maschinen für l
 ..  figure:: media/initialisieren_xenserver/08.png
     :scale: 70%
     
-    Legen Sie nun die CD „NetzInt-XenServerSupplementalPack“ erneut in das Laufwerk 
+    Legen Sie nun die CD „XenServerSupplementalPack“ erneut in das Laufwerk 
     ein und bestätigen Sie mit Ok
 
 ..  figure:: media/initialisieren_xenserver/09.png
