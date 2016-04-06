@@ -38,6 +38,8 @@ Inhalt:
 
    systemanforderungen
    installation_xenserver
+   administrationsmoeglichkeiten
+    
 
 .. admonition:: Bitte helfen Sie mit diese Dokumentation zu verbessern.
 
